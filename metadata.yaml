@@ -1,0 +1,61 @@
+_repo: Sixty-Years-in-Southern-California-1853-1913Containing-the-Reminiscences-of-Harris-Newmark_42680
+_version: 0.1.0
+alternative_title: "60 Years in Southern California, 1853-1913\r\nContaining the Reminiscences\
+  \ of Harris Newmark"
+contributor:
+  contributor:
+    agent_name: Worden, J. Perry
+    alias: Worden, Perry
+    birthdate: 1866
+    gutenberg_agent_id: '42265'
+    url: http://www.gutenberg.org/2009/agents/42265
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newmark, Harris
+    birthdate: 1834
+    deathdate: 1916
+    gutenberg_agent_id: '41812'
+    url: http://www.gutenberg.org/2009/agents/41812
+  editors:
+  - agent_name: Newmark, Marco Ross
+    alias: Newmark, Marco R. (Marco Ross)
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '41814'
+    url: http://www.gutenberg.org/2009/agents/41814
+  - agent_name: Newmark, Maurice Harris
+    alias: Newmark, Maurice H. (Maurice Harris)
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '41813'
+    url: http://www.gutenberg.org/2009/agents/41813
+description: Harris Newmark (1834-1916), son of a modest Prussian Jewish merchant,
+  sailed to America in 1853 to join his older brother in Los Angeles. He made a fortune
+  in real estate, the wholesale grocery business, and hides and wools, becoming a
+  leader in the local Jewish community and the city at large. Sixty years in Southern
+  California (1916) begins with his description of Los Angeles as he found it; judges
+  and lawyers, merchants and shops, churches and other landmarks. In the chapters
+  that follow, Newmark organizes his materials chronologically and outlines his various
+  mercantile partnerships and traces changing patterns of social life in Los Angeles,
+  political factions, railroad construction in southern California, crime and vigilantism,
+  the Chinese Massacre of 1871, and real estate speculations. In a more personal vein,
+  he chronicles Jewish family life and philanthropy.
+gutenberg_issued: '2013-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42680'
+  lccn: '16017932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California, Southern'
+- !lcc 'F850.5'
+- !lcsh 'Los Angeles (Calif.)'
+title: "Sixty Years in Southern California, 1853-1913\r\nContaining the Reminiscences\
+  \ of Harris Newmark"
+url: http://www.gutenberg.org/ebooks/42680
